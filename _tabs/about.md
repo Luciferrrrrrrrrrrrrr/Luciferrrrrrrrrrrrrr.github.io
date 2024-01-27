@@ -5,7 +5,7 @@ order: 4
 ---
 - ### Hi there 👋, I'm Xihuang Lin!
 
-  - 🏫  _BSc in Computer Science_.
+  - 🏫  I Major in Computer Science_.
   - 💻  I work on C / C++ / Matlab / Python / AI.
   - 🧠  I used to take internship as an assistant in Tsinghua University.
   - 🏖️  I will go to take a glorious glimpse of the boarder world！
