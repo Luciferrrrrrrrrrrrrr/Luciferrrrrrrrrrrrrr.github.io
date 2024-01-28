@@ -13,7 +13,7 @@ math: false
 mermaid: true
 
 image:
-  src: /assets/blog_res/2021-03-30-hello-world.assets/resume.jpg
+  src: /assets/blog_res/2021-03-30-hello-world.assets/resume.png
   alt: resume
 
 ---
