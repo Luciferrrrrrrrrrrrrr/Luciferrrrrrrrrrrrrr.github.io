@@ -1,24 +1,24 @@
 ---
-title: 你好，世界！
-date: 2022-03-26 10:34:00 +0800
-categories: [随笔]
-tags: [生活]
+title: 个人简介
+date: 2024-01-28 12:10:00 +0800
+categories: [关于我]
+tags: [学习]
 pin: true
-author: 湾区书记汤姆
+author: 林喜煌
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../Luciferrrrrrrrrrrrrr.github.io
 math: false
 mermaid: true
 
 image:
-  src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
-  alt: 签约成功
+  src: /assets/blog_res/2021-03-30-hello-world.assets/resume.jpg
+  alt: resume
 
 ---
 
-# 感谢关注～ 
+# 林喜煌的个人简历
 
 
 这里可以放代码片段噢～
